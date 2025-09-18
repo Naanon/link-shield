@@ -14,16 +14,12 @@ import Image from "next/image";
 export default function Home() {
   const [url, setUrl] = useState("");
   const [fee, setFee] = useState(0);
-  // const [message, setMessage] = useState("");
 
   const LinkShield = "/assets/link-shield.jpg";
   const MetaMask = "/assets/metamask.svg";
 
   const handleCreateLink = () => {
     const linkId = hash(url).slice(0, 5);
-    // const message = `${url} ${fee} ${linkId}`;
-    // toast(message);
-    // connectContract();
     addLink({ url, linkId, feeInWei: fee })
       .then(() => {
         setUrl("");
