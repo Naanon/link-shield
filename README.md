@@ -35,7 +35,7 @@ Link Shield is a decentralized application (dapp) developed using Next.js and Ja
 ## 4. Prerequisites
 * **Node.js**: For the Next.js framework.
 * **Web3 Wallet**: An account with a Web3 wallet like MetaMask, configured for the BNB Smart Chain Testnet.
-* **Transaction Hash**: A transaction hash can be checked on the **BSCScan Testnet** at: `[https://sepolia.infura.io/v3/42bff0d9dc884f93808b09d696b2b21a](https://testnet.bscscan.com/address/0xd5d25f3857dcc6d5e70361a066115a491857ca9a)`.
+* **Transaction Hash**: A transaction hash can be checked on the **BSCScan Testnet** at: `https://testnet.bscscan.com/address/0xd5d25f3857dcc6d5e70361a066115a491857ca9a`.
 
 ## 5. Installation
 ### 5.1. Clone the Repository
