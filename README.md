@@ -60,4 +60,4 @@ npm run dev
 ```
 
 ### 6.2. Access to the Application
-* The application can be accessed at **http://localhost:8000**
+* The application can be accessed at **http://localhost:3000**
