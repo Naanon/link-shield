@@ -24,7 +24,9 @@ export default function Home() {
       .then(() => {
         setUrl("");
         setFee(0);
-        toast(`Link Created Successfully: http://localhost:3000/${linkId}`);
+        toast(
+          `Link Created Successfully: https://link-shield-fawn.vercel.app/${linkId}`,
+        );
       })
       .catch((error) => toast(error.message));
   };
