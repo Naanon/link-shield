@@ -40,7 +40,7 @@ Link Shield is a decentralized application (dapp) developed using Next.js and Ja
 ## 5. Installation
 ### 5.1. Clone the Repository
 ```sh
-git clone https://github.com/Naanon/blockchain-core-service.git
+git clone https://github.com/Naanon/link-shield.git
 ```
 
 ### 5.2. Access the Project Directory
