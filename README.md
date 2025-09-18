@@ -1,4 +1,3 @@
-
 # Link Shield
 
   - [1. Project Description](#1-project-description)
